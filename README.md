@@ -4,7 +4,7 @@ Hi 👋 My name is Anand Rai
 System Engineer
 ---------------
 
-* 🌍  I'm based in Ahemadabad
+* 🌍  I'm based in Noida
 * 🖥️  See my portfolio at [Blog](http://blog.anandrai.in)
 * ✉️  You can contact me at [me@anandrai.in](mailto:me@anandrai.in)
 * 🧠  I'm learning Terrraform,
