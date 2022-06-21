@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/jdanandrai?logo=github&style=for-th
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/BASH_logo-transparent-bg-bw-02.svg" width="36" height="36" alt="Bash" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/32x32.svg" width="36" height="36" alt="Bash" /></a>
 </p>
 
 
