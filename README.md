@@ -11,8 +11,8 @@ System Engineer
 * 🤝  I'm open to collaborating on Bash Scripting , Automation, Devops
 * ⚡  I am writer, I love writing Journal
 
-<a href="https://www.twitter.com/warrezjd" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/warrezjd?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/jdanandrai" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/jdanandrai?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/jdanandrai" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jdanandrai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
