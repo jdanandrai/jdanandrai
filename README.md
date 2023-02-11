@@ -5,8 +5,8 @@ System Engineer
 ---------------
 
 * 🌍  I'm based in Noida
-* 🖥️  See my portfolio at [Blog](http://blog.anandrai.in)
-* ✉️  You can contact me at [me@anandrai.in](mailto:me@anandrai.in)
+* 🖥️  See my portfolio at [Blog](https://devopsthings.net)
+* ✉️  You can contact me at [me@anandrai.in](mailto:anandrai@devopsthings.net)
 * 🧠  I'm learning Terrraform,
 * 🤝  I'm open to collaborating on Bash Scripting , Automation, Devops
 * ⚡  I am writer, I love writing Journal
