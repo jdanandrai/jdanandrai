@@ -5,8 +5,8 @@ System Engineer
 ---------------
 
 * 🌍  I'm based in Noida
-* 🖥️  See my portfolio at [Blog](https://devopsthings.net)
-* ✉️  You can contact me at [me@anandrai.in](mailto:anandrai@devopsthings.net)
+* 🖥️  See my portfolio at [Blog](https://devopsflux.com)
+* ✉️  You can contact me at [me@anandrai.in](mailto:anandrai@devopsflux.com)
 * 🧠  I'm working on Kubernetes,Docker,
 * 🤝  I'm open to collaborating on Bash Scripting , Automation, Devops
 * ⚡  I am writer, I love writing Journal
