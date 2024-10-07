@@ -1,7 +1,7 @@
 Hi 👋 My name is Anand Rai
 ==========================
 
-DevOps Engineer
+Site Reliability Engineer
 ---------------
 
 * 🌍  I'm based in Noida
