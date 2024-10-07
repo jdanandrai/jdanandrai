@@ -1,7 +1,7 @@
 Hi 👋 My name is Anand Rai
 ==========================
 
-System Engineer
+DevOps Engineer
 ---------------
 
 * 🌍  I'm based in Noida
